@@ -1,0 +1,197 @@
+@media only screen and (max-width: 529px) {
+
+    body{
+        background-color: rgb(153, 123, 113);
+        width: 529px;
+        /* height: 1488px; */
+        margin-left: 0px;
+
+        
+    }
+    
+
+
+   
+  
+  .influencer-container .old, .main-images{
+      width: 229px;
+      
+      
+      
+     display: flex;
+     flex-direction: column-reverse;
+    
+     
+      margin-right: 0px;
+  }
+  .preebook{
+      padding: 10px;}
+   
+      
+      
+
+    .container .new, .banner{ 
+        display:grid;
+        grid-template-columns: repeat(1, 1fr);
+        
+         grid-template-rows: repeat(2, 1fr);
+        
+        
+         
+         width: 529px; 
+         height: 4700px; 
+      
+         margin-left: 0px;
+      
+
+
+  }
+  .anchor{
+      width: 200px;
+  }
+ footer{
+     width: 529px;
+ }
+  .footer-text .footer-query, .center-aling{
+      width: 529px;
+
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+body{
+    margin: 87px 15px 15px 70px;
+} 
+ 
+ /* influencer-container */
+.influencer-container .old{
+    display: flex;
+    
+    width: 65%;
+    
+}
+.text-influencer{
+    padding-top: 40px;
+
+}
+.font1{
+    font-size: 52px;
+}
+.preebook{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 10px 24px;
+    border-radius: 41px;
+    color: ivory;
+
+}
+.main-camera{
+    width: 340px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    left: 835px;
+    top: 211px;
+}
+/* popular-collection */
+.new{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 30px;
+    grid-column-gap: 3px;
+    
+}
+.collection-images img{
+    width: 300px;
+    height: 256px;
+    left: 210px;
+    border-radius: 5px;
+    
+}
+.banner{
+    width: 329px;
+    height: 476px;
+    left: 196px;
+    top: 1035px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    
+}
+.inner-banner{
+     margin: 17px 15px 5px 14px; 
+
+}
+
+.ratting{
+    margin-left: 10px;
+}
+.fa-star.filled{
+    color: rgb(228, 228, 30);
+}
+.fa-star.emtey{
+    color:gray
+}
+
+h2{
+    font-size: 28px;
+    text-align: center;
+}
+.seemore{
+    text-align:right;
+    /* color: hotpink; */
+}
+.more-button{
+    text-decoration: none;
+    color: hotpink;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    margin: 30px -15px 30px -70px;
+   
+  
+}
+.footer-text{
+    text-transform: translate(50px);
+}
+
+
+
+
+
+
+
+.fa-instagram-square{
+    margin-right: 5px;
+    
+}
+.fa-facebook-square{
+    margin-left: 5px;
+  
+}
+.fa-twitter-square{
+    margin-left: 5px;
+}
+.fa-youtube-square{
+    margin-left: 5px;
+}
+    
+
+
+
+.display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
