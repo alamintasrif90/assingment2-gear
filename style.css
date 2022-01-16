@@ -4,9 +4,7 @@
         background-color: rgb(153, 123, 113);
         width: 529px;
         /* height: 1488px; */
-        margin-left: 0px;
-
-        
+        margin-left: 0px;   
     }
     
 
@@ -14,14 +12,9 @@
    
   
   .influencer-container .old, .main-images{
-      width: 229px;
-      
-      
-      
+      width: 229px; 
      display: flex;
-     flex-direction: column-reverse;
-    
-     
+     flex-direction: column-reverse; 
       margin-right: 0px;
   }
   .preebook{
